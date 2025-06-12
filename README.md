@@ -38,3 +38,12 @@ An overall analysis on how to get into the board games market through Kickstarte
 | reward levels cleaned | To simplify the identification of minimum and maximum values. |
 | reward_min           | The minimum reward value. |
 | reward_max           | The maximum reward value. |
+
+##
+
+### DATA LIMITATIONS
+- Insufficient data is available.
+- There is no subcategory that specifically defines board games.
+- The data is outdated and may not accurately reflect the current market.
+- We couldn't fully take advantage of live projects since their success status is unknown. One possible solution is to use web scraping to retrieve their latest status for a more accurate analysis.
+- It would be more beneficial to have comments in text format rather than just numbers, enabling deeper analysis.
