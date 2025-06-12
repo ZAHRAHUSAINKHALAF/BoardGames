@@ -39,8 +39,7 @@ An overall analysis on how to get into the board games market through Kickstarte
 | reward levels cleaned | To simplify the identification of minimum and maximum values. |
 | reward_min           | The minimum reward value. |
 | reward_max           | The maximum reward value. |
-
-##
+## QUANTITATIVE DATA ANALYSIS
 
 ### DATA LIMITATIONS
 - Insufficient data is available.
