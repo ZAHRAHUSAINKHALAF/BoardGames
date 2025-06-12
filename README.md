@@ -47,3 +47,21 @@ An overall analysis on how to get into the board games market through Kickstarte
 - The data is outdated and may not accurately reflect the current market.
 - We couldn't fully take advantage of live projects since their success status is unknown. One possible solution is to use web scraping to retrieve their latest status for a more accurate analysis.
 - It would be more beneficial to have comments in text format rather than just numbers, enabling deeper analysis.
+
+## QUALITATIVE ANALYSIS
+
+### 1. LAUNCH TIMING
+
+### 2. CAMPAIGN DURATION
+
+### 3. REWARD TIER PRICING 
+
+### 4. BACKER ENGAGMENT 
+
+### 5. GEOGRAPHICAL LOCATION
+
+### 6. EXAMPLE OF HIGH SUCCESS
+
+
+
+
