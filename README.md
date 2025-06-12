@@ -1,6 +1,7 @@
 ![Heaser](images/Header2.jpg)
 
-# BoardGames
+# Decoding Success: Key Drivers of Board & Card Game Campaigns on Kickstarter
+
 An overall analysis on how to get into the board games market through Kickstarter website successfully
 
 ## DATA HANDLING PROCESS BY STEPS
