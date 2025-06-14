@@ -79,6 +79,15 @@ An overall analysis on how to get into the board games market through Kickstarte
 ### 6. EXAMPLE OF HIGH SUCCESS
 ![6](images/6.png)
 
+## RECOMMENDATIONS 
+1. Keep funding goal under $10,000.
+2. 5 to 15 reward tiers recommended.
+3. Start rewards at $10–$20 minimum.
+4. Offer higher-tier special editions for premium backers.
+5. Target duration between 21 to 45 days.
+6. Minimum 10 updates throughout the campaign.
+7. Encourage >20 comments through active communication.
+
 
 
 
