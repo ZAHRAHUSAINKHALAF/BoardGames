@@ -55,16 +55,30 @@ An overall analysis on how to get into the board games market through Kickstarte
 ## QUALITATIVE ANALYSIS
 
 ### 1. LAUNCH TIMING
+![1a](images/1a.png)
+![1b](images/1b.png)
 
 ### 2. CAMPAIGN DURATION
+![2a](images/2a.png)
+![2b](images/2b.png)
 
-### 3. REWARD TIER PRICING 
+### 3. FUNDING GOAL 
+![3a](images/3a.png)
+![3b](images/3b.png)
+![3c](images/3c.png)
 
-### 4. BACKER ENGAGMENT 
+### 4. REWARD TIER PRICING 
+![4a](images/4a.png)
+![4b](images/4b.png)
+![4c](images/4c.png)
 
-### 5. GEOGRAPHICAL LOCATION
+### 5. BACKER ENGAGMENT 
+![5a](images/5a.png)
+![5b](images/5b.png)
 
 ### 6. EXAMPLE OF HIGH SUCCESS
+![6](images/6.png)
+
 
 
 
