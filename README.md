@@ -45,7 +45,7 @@ An overall analysis on how to get into the board games market through Kickstarte
 
 ![Overview](images/Overview.png)
 
- Nearly half of the Kickstarter board game projects (47%) were successful, likely because creators set realistic goals (around $8.7K on average), had enough time to promote (about 41 days), and attracted decent support—each successful project pulled in over 350 backers on average. However, a large number still failed or are currently live, possibly due to limited exposure, unclear messaging, or competition. Overall, the success seems tied to achievable targets, strong community interest, and smart promotion. 
+ Nearly half of the Kickstarter board game projects (47%) were successful, likely because creators set realistic goals (around $8.7K on average), had enough time to promote (about 41 days), and attracted decent support: each successful project pulled in over 350 backers on average. However, a large number still failed or are currently live, possibly due to limited exposure, unclear messaging, or competition. Overall, the success seems tied to achievable targets, strong community interest, and smart promotion. 
  
 ### DATA LIMITATIONS
 - Insufficient data is available.
