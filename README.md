@@ -21,24 +21,25 @@ def extract_rewards(text):
     if pd.isna(text):
         return []
     
-    # نستخدم تعبير منتظم لاستخراج كل الأرقام بشكل صحيح
+    نستخدم تعبير منتظم لاستخراج كل الأرقام بشكل صحيح
     matches = re.findall(r'\$?([\d,]+(?:\.\d+)?)', text)
     
     cleaned = []
     for match in matches:
-        # نشيل الفواصل من كل رقم (thousand separator)
+        نشيل الفواصل من كل رقم (thousand separator)
         num = float(match.replace(',', ''))
         cleaned.append(num)
     return cleaned
 
-# نطبق على العمود
+ نطبق على العمود
 df['reward list'] = df['reward levels'].apply(extract_rewards)
 
-# نحسب المين والمكس
+نحسب المين والمكس
 df['reward_min'] = df['reward list'].apply(lambda x: min(x) if x else None)
 df['reward_max'] = df['reward list'].apply(lambda x: max(x) if x else None)
 
   ```
+  ``` 
 
 ## DATA DICTIONARY
 
