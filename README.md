@@ -14,7 +14,31 @@ An overall analysis on how to get into the board games market through Kickstarte
 - The only null values were in the Location column. Since there were just 11 missing entries, we manually filled them by referencing the creators' websites.
 - We removed one duplicate entry based on its unique ID.
 - To simplify comparison, we cleaned the "Reward Levels" column, extracted the numeric values, and created two new columns representing the maximum and minimum reward amounts.
+  ``` 
+import re
 
+def extract_rewards(text):
+    if pd.isna(text):
+        return []
+    
+    # نستخدم تعبير منتظم لاستخراج كل الأرقام بشكل صحيح
+    matches = re.findall(r'\$?([\d,]+(?:\.\d+)?)', text)
+    
+    cleaned = []
+    for match in matches:
+        # نشيل الفواصل من كل رقم (thousand separator)
+        num = float(match.replace(',', ''))
+        cleaned.append(num)
+    return cleaned
+
+# نطبق على العمود
+df['reward list'] = df['reward levels'].apply(extract_rewards)
+
+# نحسب المين والمكس
+df['reward_min'] = df['reward list'].apply(lambda x: min(x) if x else None)
+df['reward_max'] = df['reward list'].apply(lambda x: max(x) if x else None)
+
+  ```
 
 ## DATA DICTIONARY
 
