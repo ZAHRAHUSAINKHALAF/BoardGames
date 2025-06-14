@@ -1,4 +1,4 @@
-![Heaser](images/Header2.jpg)
+![HEADER](images/HEADER.png)
 
 # Decoding Success: Key Drivers of Board & Card Game Campaigns on Kickstarter
 
@@ -89,6 +89,8 @@ An overall analysis on how to get into the board games market through Kickstarte
 5. Target duration between 21 to 45 days.
 6. Minimum 10 updates throughout the campaign.
 7. Encourage >20 comments through active communication.
+
+![FOOTER](images/FOOTER.png)
 
 
 
